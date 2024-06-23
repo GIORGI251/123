@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: fonts;
+    src: url(fonts/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf);
+}
+body {
+    margin: 0;
+    font-family: 'fonts';
+}
+
+
+.image1 {
+    width:1000px ;
+    height:770px ;
+}
+
+
+.box1 {
+    width: 400px;
+    height: 500px;
+    margin-top:-700px ;
+    margin-left:1100px ;
+}
+
+
+.text {
+    font-size: 34px;
+    color: rgba(82, 82, 82, 1);
+}
+
+.p1 {
+font-size:16px ;
+color:rgba(82, 82, 82, 1) ;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 14px;
+    color: rgba(130, 130, 130, 1);
+}
+
+.text3 {
+    text-align: center;
+    font-size: 14px;
+    color: rgba(130, 130, 130, 1);
+}
+
+
+.email {
+    font-size: 14px;
+    color: rgba(130, 130, 130, 1);
+}
+
+
+.input1 {
+    width:400px ;
+    height: 45px;
+    border: 1px;
+    border-radius: 5px;
+    border:solid rgba(222, 210, 217, 1);
+}
+
+.input2 {
+    width:400px ;
+    height: 45px;
+    border: 1px;
+    border-radius: 5px;
+    border:solid rgba(222, 210, 217, 1);
+    margin-left: -300px;
+}
+
+.password {
+    font-size: 14px;
+    color: rgba(130, 130, 130, 1);
+}
+   
+
+.d-flex {
+    margin-left: 300px;
+    margin-top: -90px;
+}
+
+
+.image {
+    margin-left: 310px;
+    margin-top: -110px;
+}
+
+
+.text4 {
+    font-size: 12px;
+    color: rgba(127, 38, 91, 1);
+    margin-left: 293px;
+    margin-top: -120px;
+}
+
+
