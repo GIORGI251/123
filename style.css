@@ -113,7 +113,11 @@ p {
     display: block;
     margin-top: 15px;
 }
-
+}
+.google {
+    color: rgba(130, 130, 130, 1);
+    border: none;
+}
 
 .textInDashes {
     text-align: center;
@@ -212,6 +216,12 @@ label {
   
 }
 
+.txt1 {
+    color: rgba(127, 38, 91, 1);
+}
+.txt2 {
+    color: rgba(127, 38, 91, 1);
+}
 
 
 
