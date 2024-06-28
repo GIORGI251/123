@@ -108,11 +108,12 @@ p {
 }
 
 
-}
+
 .google {
     color: rgba(130, 130, 130, 1);
     border: none;
     src: url(google.png);
+}
 
 .textInDashes {
     text-align: center;
@@ -170,6 +171,7 @@ label {
     margin-top: 40px;
 }
 
+
 .checkbox2 {
     display: inline-block;
     margin-left: 205px;
@@ -217,7 +219,3 @@ label {
 .txt2 {
     color: rgba(127, 38, 91, 1);
 }
-
-
-
-
