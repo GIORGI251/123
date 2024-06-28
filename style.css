@@ -117,7 +117,7 @@ p {
 .google {
     color: rgba(130, 130, 130, 1);
     border: none;
-}
+    src: url(google.png);
 
 .textInDashes {
     text-align: center;
