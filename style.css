@@ -172,8 +172,8 @@ label {
     font-weight: 400;
     font-size: 12px;
     color: rgba(161, 161, 161, 1);
+    margin-top: 40px;
 }
-
 
 .checkbox2 {
     display: inline-block;
